@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile2.jpg',
   paragraphOne: 'Love the tech world to the bones. I was always a curious cat towards computers since 12, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
-  paragraphTwo: 'I am more inclined toward mobile application developement in general. iOS Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
+  paragraphTwo: 'I am more inclined to mobile application developement in general. iOS Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
   paragraphThree: '💻 Vim all the way | 🐉 C++ | 🐦 Swift | ☕ Java | 🔩 JavaScript',
  
   resume: '', // if no resume, the button will not show up
