@@ -7,8 +7,6 @@ export const headData = {
   description: 'Welcome to my website 🔆', // e.g: Welcome to my website
 };
 
-
-
 // HERO DATA
 export const heroData = {
   title: '👋🏼 Hi, my name is',
@@ -20,15 +18,17 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile2.jpg',
-  paragraphOne: 'Love the tech world to the bones. I was always a curious cat towards computers since 12 y/o, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
-  paragraphTwo: 'I am more inclined to Web application developement in general. Web Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
+  paragraphOne:
+    'Love the tech world to the bones. I was always a curious cat towards computers since 12 y/o, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
+  paragraphTwo:
+    'I am more inclined to Web application developement in general. Web Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
   paragraphThree: '💻 vscode all the way | 🐉 C++ | ⚛️ Reactjs | ☕ Java | 🔩 JavaScript',
- 
+
   resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
-/*export const projectsData = [
+export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
@@ -57,7 +57,7 @@ export const aboutData = {
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
-*/
+
 // CONTACT DATA
 export const contactData = {
   cta: '',
