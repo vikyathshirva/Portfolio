@@ -7,6 +7,8 @@ export const headData = {
   description: 'Welcome to my website 🔆', // e.g: Welcome to my website
 };
 
+
+
 // HERO DATA
 export const heroData = {
   title: '👋🏼 Hi, my name is',
