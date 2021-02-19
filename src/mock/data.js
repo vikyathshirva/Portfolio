@@ -20,7 +20,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile2.jpg',
-  paragraphOne: 'Love the tech world to the bones. I was always a curious cat towards computers since 12, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
+  paragraphOne: 'Love the tech world to the bones. I was always a curious cat towards computers since 12 y/o, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
   paragraphTwo: 'I am more inclined to Web application developement in general. Web Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
   paragraphThree: '💻 vscode all the way | 🐉 C++ | ⚛️ Reactjs | ☕ Java | 🔩 JavaScript',
  
