@@ -28,7 +28,7 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
-/*export const projectsData = [
+export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
@@ -57,7 +57,7 @@ export const aboutData = {
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
-*/
+
 // CONTACT DATA
 export const contactData = {
   cta: '',
