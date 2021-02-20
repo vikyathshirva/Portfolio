@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Vikyath Shirva | Software Dev`,
-        short_name: `Vikyath Shirva | Software Dev`,
+        name: `Gatsby Simplefolio`,
+        short_name: `Simplefolio`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
