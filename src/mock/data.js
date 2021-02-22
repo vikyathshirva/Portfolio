@@ -22,7 +22,7 @@ export const aboutData = {
     'Love the tech world to the bones. I was always a curious cat towards computers since 12 y/o, and this inkling pushed me to know more about what happens underneath, and here I am 🚶🏼‍♂️',
   paragraphTwo:
     'I am more inclined to Web application developement in general. Web Dev is where my strong point is at, yet still curious about distributed systems and performance optimization in microservice architectures 🏛️. IDE and languages that I love 👇🏼',
-  paragraphThree: '💻 vscode all the way | 🐉 C++ | ⚛️ Reactjs | ☕ Java | 🔩 JavaScript',
+  paragraphThree: '💻 vscode all the way | 🐉 C++ | Nodejs | ⚛️ Reactjs | ☕ Java | 🔩 JavaScript',
 
   resume: '', // if no resume, the button will not show up
 };
@@ -31,30 +31,36 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'bagxbill.png',
+    title: 'BagxBill',
+    info: 'An E-commerce site built using MERN stack',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://bagxbill.herokuapp.com/',
+    repo: 'https://github.com/vikyathshirva/Bagxbill', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: '',
+    title: 'Pig Game',
+    info: `GAME RULES: - The game has 2 players, playing in rounds
+
+In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
+BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
+The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
+The first player to reach 25 points on GLOBAL score wins the game
+`,
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://pig-game-khaki.vercel.app/',
+    repo: 'https://github.com/vikyathshirva/Pig-Game', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: '',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
