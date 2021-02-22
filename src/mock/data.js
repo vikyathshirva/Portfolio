@@ -40,7 +40,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: '',
+    img: 'pig.png',
     title: 'Pig Game',
     info: `GAME RULES: - The game has 2 players, playing in rounds
 
