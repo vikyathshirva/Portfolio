@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'bagxbill.png',
     title: 'BagxBill',
-    info: 'An E-commerce site built using MERN stack',
+    info: 'An E-commerce site built using MERN stack, With PayPal sandbox intergration',
     info2: '',
     url: 'https://bagxbill.herokuapp.com/',
     repo: 'https://github.com/vikyathshirva/Bagxbill', // if no repo, the button will not show up
@@ -42,13 +42,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'pig.png',
     title: 'Pig Game',
-    info: `GAME RULES: - The game has 2 players, playing in rounds
-
-In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
-BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
-The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
-The first player to reach 25 points on GLOBAL score wins the game
-`,
+    info: `A board Game built using vanilla javascript`,
     info2: '',
     url: 'https://pig-game-khaki.vercel.app/',
     repo: 'https://github.com/vikyathshirva/Pig-Game', // if no repo, the button will not show up
